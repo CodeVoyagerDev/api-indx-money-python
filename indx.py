@@ -1,3 +1,8 @@
+# This code requires Python 3.10 or higher
+# Repository URL: https://github.com/CodeVoyagerDev/api-indx-money-python
+# Author: CodeVoyagerDev (https://github.com/CodeVoyagerDev)
+# Version: 1.0.0
+
 # К методам API WM идентификатор трейдера может обращаться не чаще 1 раза в секунду
 import base64
 import hashlib
